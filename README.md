@@ -52,18 +52,24 @@ The model uses 30+ features, including:
 The app displays the predicted class and probabilities like:
 
 🟢 Likely to Graduate (Probability: 82.15%)
+
 🔴 Likely to Dropout (Probability: 17.85%)
 
 And allows downloading the result as:
 
 -CSV File
+
 -PDF Report
 
 📚 Learnings
 
 -Model comparison and evaluation
+
 -Handling label-encoded categorical features
+
 -Model serialization using joblib
+
 -Real-time web deployment with Streamlit
+
 -Improving user experience with readable labels and dropdowns
 
