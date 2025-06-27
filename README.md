@@ -25,20 +25,6 @@ After testing with accuracy, precision, and recall, **Logistic Regression** perf
 
 ---
 
-## 📂 Project Structure
-
-Student-Dropout-Predictor-App/
-│
-├── models/
-│ ├── dropout_model.pkl # Trained logistic regression model
-│ └── scaler.pkl # Feature scaler used during preprocessing
-│
-├── app.py # Main Streamlit web app
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation (this file)
-
----
-
 ## 📊 Features
 
 - User-friendly web interface (via Streamlit)
