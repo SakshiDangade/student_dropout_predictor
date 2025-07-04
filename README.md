@@ -72,5 +72,3 @@ And allows downloading the result as:
 -Real-time web deployment with Streamlit
 
 -Improving user experience with readable labels and dropdowns
-
-adsada
